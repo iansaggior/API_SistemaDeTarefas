@@ -1,5 +1,7 @@
 # SistemaDeTarefas
 
+Sistema tem como objetivo a manipulação de cadastros de pessoas e tarefas, onde é possivel que cada tarefa esteja relacionada a uma pessoa
+
 Observações para rodar o projeto:
 - verificar as configurações do banco de dados.
   Foi Utilizado o SQL Server
